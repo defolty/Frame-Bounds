@@ -1,4 +1,4 @@
-### Two branches, each with a different implementation, via storyboard and via code, using nslayout. 
+### Two branches, each with a different implementation, via storyboard and via code, using NSLayout. 
 - branch main with storyboard
 - branch NSLayout with itself
 
